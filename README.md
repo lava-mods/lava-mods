@@ -22,8 +22,8 @@ A Minecraft mod that introduces an intense survival challenge with these core me
 - Requires Forge(relevant installer link)
 
 ## 🔨 Development Progress
-- [√] Basic magma ascent mechanics
-- [√] Core item system
+- [x] Basic magma ascent mechanics
+- [x] Core item system
 - [ ] New biomes (in development)
 - [ ] Multiplayer sync optimization (planned)
 
